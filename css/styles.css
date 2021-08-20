@@ -87,6 +87,7 @@ a {
   text-align: center;
   width: 50%;
 }
+
 .profile-img {
   border: 3px solid #7098da;
   border-radius: 50%;
@@ -95,7 +96,7 @@ a {
 
 .profile p {
   margin: auto;
-  width: 60%;
+  width: 80%;
 }
 
 hr {
